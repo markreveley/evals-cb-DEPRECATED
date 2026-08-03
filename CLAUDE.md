@@ -1,9 +1,11 @@
 # CLAUDE.md
 
-> Decision record for this repo. Last updated 2026-07-04. Supersedes the original
+> Decision record for this repo. Last updated 2026-08-03. Supersedes the original
 > session prompt wherever they conflict — several facts in that prompt were stale
 > and were corrected here after live verification. The full deliberation that
-> produced these decisions is preserved verbatim in `threads/`.
+> produced these decisions is preserved verbatim in git history only — it was
+> removed from the tree in the 2026-08-03 flatten. Retrieve it with:
+> `git show 3545da7:threads/2026-07-04-elixir-swarm-eval-harness-and-cb-ledger.md`
 
 ## What this project is
 
