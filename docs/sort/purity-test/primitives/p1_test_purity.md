@@ -1,1 +1,0 @@
-Tests should minimize environmental dependencies (network, filesystem, timing, processes). Each reduction in impurity categorically improves speed and reliability.
