@@ -1,4 +1,12 @@
-# Composable Beliefs — Eval Suite
+# Composable Beliefs — Eval Suite (deprecated)
+
+> **Deprecated 2026-11-17. Do not add to this repository.** Its full contents
+> and Git history moved to the `evals-cb/` folder of
+> [`markreveley/eval-workshop`](https://github.com/markreveley/eval-workshop/tree/main/evals-cb)
+> (private), which is now the place to record new runs. This repository is kept
+> read-only so existing evidence links (for example from `belief-collections`)
+> still resolve; repoint them to the new location when convenient. Paths inside
+> `evals-cb/` there match the paths here.
 
 Controlled evaluations testing whether structuring knowledge as a **belief /
 assertion DAG** (primitives + compounds with explicit dependencies) produces
